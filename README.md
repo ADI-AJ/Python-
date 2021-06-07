@@ -1,3 +1,2 @@
 # Python-
-Basic and beginner python programs /n
-Mostly basic games
+Basic and beginner python programs (Mostly basic games)
